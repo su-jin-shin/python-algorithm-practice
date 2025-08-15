@@ -1,0 +1,49 @@
+# --------------------------
+# Python
+# --------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --------------------------
+# Jupyter Notebook
+# --------------------------
+# 체크포인트 자동 저장 폴더
+.ipynb_checkpoints/
+
+# Notebook 실행 결과 캐시
+*/.ipynb_checkpoints/*
+
+# --------------------------
+# Virtual Environment
+# --------------------------
+venv/
+env/
+.venv/
+.env/
+
+# --------------------------
+# OS / Editor
+# --------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# --------------------------
+# Logs
+# --------------------------
+*.log
